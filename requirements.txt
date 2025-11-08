@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+motor
+pymongo
+sqlalchemy
+pydantic
+pytest
+httpx
